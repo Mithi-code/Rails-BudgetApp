@@ -24,13 +24,13 @@
 * Clone the repo using the command below
 
 ```
-git clone git@github.com:mithi-code/budget-app.git
+git clone git@github.com:Mithi-code/Rails-BudgetApp.git
 ```
 
 * Navigate to the directory in which you cloned the project and use the command below
 
 ```
-cd budget-app
+cd Rails-BudgetApp
 ```
 
 * Install all project dependencies and packages using the command below
@@ -50,10 +50,11 @@ rails s
 * Next, go to the terminal and type the command `rspec spec`
 
 ## Authors
-Charles Gobina :student: 
-* Github:https://github.com/charlesgobina 
-* Twitter:https://twitter.com/i4mCloud
-* LinkedIn:https://www.linkedin.com/in/charles-gobina-74a0ab193/
+👤 **Mithi**
+
+[@githubhandle](https://github.com/Mithi-code/)
+[@twitterhandle](https://twitter.com/sam_mongare)
+[LinkedIn](https://www.linkedin.com/in/mithicode/)
 
 ## Contributing :handshake:
 Contributions, issues, and feature requests are welcome!
@@ -71,7 +72,7 @@ git clone git@github.com:charlesgobina/budget-app.git
 * Navigate to the directory in which you cloned the project and use the command below
 
 ```
-cd budget-app
+cd Rails-BudgetApp
 ```
 
 * Switch to dev branch using the command below
