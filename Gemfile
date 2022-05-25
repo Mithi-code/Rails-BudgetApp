@@ -73,3 +73,5 @@ group :test do
 end
 
 gem 'devise'
+# Cancancan gem for authorization
+gem 'cancancan'
