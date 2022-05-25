@@ -11,7 +11,7 @@
 [Presentation Video](https://www.loom.com/share/100924456f014224b120afb0630cca48)
 
 ## Live Demo
-[Live Demo](https://budget-appl.herokuapp.com/)
+[Live Demo]()
 
 ## Software Requirements
 * Node.JS
@@ -24,7 +24,7 @@
 * Clone the repo using the command below
 
 ```
-git clone git@github.com:charlesgobina/budget-app.git
+git clone git@github.com:mithi-code/budget-app.git
 ```
 
 * Navigate to the directory in which you cloned the project and use the command below
