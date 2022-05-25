@@ -1,4 +1,4 @@
-# BudgIT
+# Budge App
 >  This is a mobile-web app that keeps record of user transactions made on a category. Users can create new categories and add several transactions under them. It is built with ruby on rails 
 
 ## Technologies Used
