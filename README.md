@@ -11,7 +11,7 @@
 [Presentation Video](https://www.loom.com/share/100924456f014224b120afb0630cca48)
 
 ## Live Demo
-[Live Demo]()
+[Live Demo](https://budget-appl.herokuapp.com/)
 
 ## Software Requirements
 * Node.JS
