@@ -61,12 +61,12 @@ Contributions, issues, and feature requests are welcome!
 * Fork this repo using the command below
 
 ```
-gh repo fork git@github.com:charlesgobina/budget-app.git
+gh repo fork (https://github.com/Mithi-code/Rails-BudgetApp)
 ```
 * Clone the forked repo using the command below
 
 ```
-git clone git@github.com:charlesgobina/budget-app.git
+git clone (https://github.com/Mithi-code/Rails-BudgetApp)
 ```
 
 * Navigate to the directory in which you cloned the project and use the command below
