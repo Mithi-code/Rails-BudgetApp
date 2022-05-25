@@ -38,6 +38,20 @@ cd Rails-BudgetApp
 ```
 bundle install
 ```
+> then initialize the database
+
+```cmd
+rails db:reset
+```
+Incase its the first time:
+
+```cmd
+rails db:create
+```
+then
+
+```cmd
+rails db:migrate
 
 * Start the server to run the application locally using the command below
 
@@ -105,9 +119,8 @@ git push -u origin [name_of_feature_branch]
 Give a 	:star: if you like this project.
 
 ## Acknowledgments
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Credit to- Gregoire Vella on Behance the author of the original design
+* Design by -The Creative Commons license of the design.
 
 ## License :memo:
 This project is [MIT](https://github.com/microverseinc/readme-template/blob/master/MIT.md) licensed
